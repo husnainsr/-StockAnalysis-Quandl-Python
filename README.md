@@ -1,1 +1,1 @@
-# -StockAnalysis-Quandl-Python
+# StockAnalysis-Quandl-Python
